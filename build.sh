@@ -8,5 +8,6 @@ source ./capenv/bin/activate
 echo "Install Dependencies"
 sleep 3
 pip install -r requirements.txt
-echo "Menjalankan Server"
-python3 main.py
+echo "Membuat Server Dalam Docker"
+sudo docker build --tag capstone-server .
+sudo docker-compose up -d

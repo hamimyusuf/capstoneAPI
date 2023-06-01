@@ -10,8 +10,7 @@ connection = conn()
 def FormHelper(UserData) -> dict:
     return{
         "username": str(UserData[0]),
-        "name": str(UserData[1]),
-        "password": str(UserData[2])
+        "name": str(UserData[1])
     }
 
 # add new user to database

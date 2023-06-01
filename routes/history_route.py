@@ -6,8 +6,15 @@ from models.response import(
     ResponseModel
 )
 
+from controlers.history_controler import(
+    showDataHistory
+)
+
 router = APIRouter()
 
 @router.get("/",response_description="post image file")
-async def getDataHistory():
-    return None
+async def getDataHistory(username):
+    dataHistory = await showDataHistory(username)
+    if dataHistory:
+        return ResponseModel(dataHistory, "Data History Show Successfull")
+    return ResponseModel(dataHistory, "Data Not Found")

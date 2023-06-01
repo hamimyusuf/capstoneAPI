@@ -28,23 +28,33 @@
 
 
 # Note: you need to be using OpenAI Python v0.27.0 for the code below to work
-import openai
+# import openai
 
-key = "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"
+# key = "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"
 
-openai.api_key = key
+# openai.api_key = key
 
-def chat_with_gpt(prompt):
-    response = openai.Completion.create()
+# def chat_with_gpt(prompt):
+#     response = openai.Completion.create()
 
-    if 'choices' in response and len(response['choices']) > 0:
-        return response['choices'][0]['text']
-    else:
-        return None
+#     if 'choices' in response and len(response['choices']) > 0:
+#         return response['choices'][0]['text']
+#     else:
+#         return None
 
-prompt = 'Halo, apa kabar?'
-response = chat_with_gpt(prompt)
-if response:
-    print(response)
+# prompt = 'Halo, apa kabar?'
+# response = chat_with_gpt(prompt)
+# if response:
+#     print(response)
 
+import requests
+
+url = 'https://story-api.dicoding.dev/v1/register'
+myobj = {'name':'hamim%20yusuf',
+'email':'hamimyusuf@yahoo.com',
+'password':'huhuhaha12345'}
+
+x = requests.post(url, json = myobj)
+
+print(x.text)
 

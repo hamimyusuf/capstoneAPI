@@ -7,7 +7,7 @@ from controlers.login_controler import(
 
 from models.response import (
     ResponseModel,
-    ResponseNotModified,
+    ResponseLogin,
     ErrorResponseModel
 )
 
@@ -23,4 +23,4 @@ async def login_data_user(logUser: UserLoginSchema = Body(...)):
     StatUser = await LoginUser(logUser)
     if StatUser == "Username or Password are invalid":
         return ResponseModel(StatUser, "Login Fail")
-    return ResponseModel(StatUser, "Login Success")
+    return ResponseLogin(StatUser, "Success")

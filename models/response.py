@@ -3,10 +3,17 @@ from starlette.responses import JSONResponse
 
 def ResponseModel(data, message):
     return {
-        "data": [data],
-        "code": 200,
         "message": message,
+        "code": 200,
+        "data": [data],
     }
+
+def ResponseLogin(data, message):
+    return {
+    "code":200,
+    "message": message,
+    "loginResult": data,
+}
 
 def ResponseNotModified(data, message):
     return{
@@ -14,7 +21,6 @@ def ResponseNotModified(data, message):
         "code": 304,
         "message": message
     }
-
 
 def ErrorResponseModel(error, code, message):
     return {"error": error, "code": code, "message": message}

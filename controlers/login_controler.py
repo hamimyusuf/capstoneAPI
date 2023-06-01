@@ -1,10 +1,18 @@
 from bson.objectid import ObjectId
 from functions.connection import conn
+import uuid
 import mysql.connector
 from passlib.hash import sha256_crypt
 
 
 connection = conn()
+
+def FormHelper(UserData,token) -> dict:
+    return{
+        "username": str(UserData[0]),
+        "name": str(UserData[1]),
+        "token":token,
+    }
 
 
 # Login User
@@ -18,7 +26,8 @@ async def LoginUser(DataUser: dict) -> dict:
         print(check)
         verif = sha256_crypt.verify(password, check[2])
         if verif:
-            return "Login Success" 
+            token = uuid.uuid4()
+            return FormHelper(check, token) 
     return "Username or Password are invalid"
     
        

@@ -8,7 +8,8 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: 123
     ports:
-      - "3308:3306"
+      - "3306:3306"
+      
   server:
     image: capstone-server:latest
     container_name: server

@@ -1,5 +1,4 @@
 from fastapi import APIRouter, Body, File, UploadFile, Form
-from fastapi_gcs import FGCSUpload, FGCSGenerate, FGCSDelete
 from fastapi.encoders import jsonable_encoder
 import fileinput
 from utils.gcs_storage import GCStorage

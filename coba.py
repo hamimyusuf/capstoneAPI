@@ -28,12 +28,10 @@
 
 import requests
 
-url = 'https://story-api.dicoding.dev/v1/register'
-myobj = {'name':'hamim%20yusuf',
-'email':'hamimyusuf@yahoo.com',
-'password':'huhuhaha12345'}
-
-x = requests.post(url, json = myobj)
-
-print(x.text)
-
+ml_api_url = 'https://asia-southeast2-capstone-project-c23-pc640.cloudfunctions.net/function-1'
+payload = {
+    'plant':'rice',
+    'image':'https://storage.googleapis.com/c23_pc640_bucket/c23/brownspot.jpg'
+    }
+result = requests.post(ml_api_url, json = payload)
+print(result.text)

@@ -1,0 +1,317 @@
+[{
+  "_id": {
+    "$oid": "6481c9aa832ca67ab3b18a3a"
+  },
+  "tanaman": "chili",
+  "penyakit": "leaf_curl",
+  "deskripsi": "Penyakit keriting daun merupakan penyakit virus yang menyerang tanaman cabai. Penyakit ini disebabkan oleh virus keriting daun cabai (ChiLCV), yang merupakan anggota dari keluarga Geminiviridae. ChiLCV ditularkan oleh lalat putih, yaitu serangga kecil yang memakan getah tanaman.Gejala penyakit daun keriting antara lain: Daun melengkung ke atas, Kerutan daun, Menguningnya daun, Ukuran daun mengecil, Pemendekan ruas, Pertumbuhan terhambat, Mengurangi produksi buah",
+  "penyebab": "Penyakit ini disebabkan oleh virus keriting daun cabai (ChiLCV), yang merupakan anggota dari keluarga Geminiviridae. ChiLCV ditularkan oleh lalat putih, yaitu serangga kecil yang memakan getah tanaman.Gejala penyakit daun keriting antara lain: Daun melengkung ke atas, Kerutan daun, Menguningnya daun, Ukuran daun mengecil, Pemendekan ruas, Pertumbuhan terhambat, Mengurangi produksi buah",
+  "solusi": [
+    "Tidak ada obat untuk penyakit keriting daun. Namun, ada sejumlah tindakan pencegahan yang dapat dilakukan untuk mengurangi risiko infeksi, seperti: ",
+    "Menggunakan varietas tanaman cabai yang kebal hama",
+    "Menanam tanaman cabe di daerah yang tidak ada lalat putih",
+    "Menggunakan sabun atau minyak insektisida untuk mengendalikan lalat putih",
+    "Membuang tanaman yang terinfeksi dari kebun",
+    "Jika Anda mencurigai bahwa tanaman cabai Anda memiliki penyakit keriting daun, anda dapat menghubungi kantor penyuluh pertanian setempat untuk informasi lebih lanjut tentang cara mengelola penyakit tersebut."
+  ],
+  "source": "https://repository.ipb.ac.id/handle/123456789/97058",
+  "penulis": "Selangga, Dewa Gede Wiryangga Hidayat, Sri Hendrastuti, Susila, Anas Dinurrohman, Wiyono, Suryo"
+},{
+  "_id": {
+    "$oid": "6481cfad832ca67ab3b18a3b"
+  },
+  "tanaman": "chili",
+  "penyakit": "leaf_spot",
+  "deskripsi": "Bercak daun atau biasa disebut dengan Frog Eyes. Penyebab penyakit ini adalah Cercospora capsici sejenis cendawan atau Jamur antagonis perusak tanaman. Penyakit bercak daun cabai adalah salah satu penyakit terpenting yang menyerang cabai di Indonesia. Penyakit ini distimulir oleh kondisi lembab dan suhu relatif tinggi. Penyakit bercak daun cabai dapat menyebabkan kerusakan sejak dari persemaian sampai tanaman cabai berbuah. Penyakit ini menyebabkan masalah serius terhadap perkembangan tanaman cabai. Serangan jamur ini berkembang pesat pada saat musim hujan dengan kondisi lahan yang lembab, sehingga perlu adanya pengaturan jarak tanam yang lebih lebar untuk mengatur kelembabannya.",
+  "penyebab": "Penyebab penyakit ini adalah Cercospora capsici sejenis cendawan atau Jamur antagonis perusak tanaman",
+  "solusi": [
+    "Pengendalian secara mekanis dilakukan dengan mencabut atau memusnahkan tanaman yang terserang, melakukan rotasi tanaman, serta menanam bibit yang bebas penyakit pada lahan yang tidak terkontaminasi penyakit.",
+    "Selain itu lakukan pula sanitasi kebun, penyiangan atau pembersihan gulma di sekitar tanaman untuk mengurangi kelembaban di areal sekitar penanaman. Keberadaan gulma ini juga bisa menjadi tanaman inang bagi hama penyakit. ",
+    "Sedangkan pengendalian secara kimiawi adalah pengendalian dengan menggunakan zat kimia. Karena penyakit bercak daun cabai ini disebabkan oleh jamur atau cendawan, maka pengendaliannya dapat dilakukan dengan menyemprotkan fungisida. ",
+    "Fungisida yang digunakan adalah fungisida sistemik dengan bahan aktif azoksistrobin dan difenokonazol. ",
+    "Adapun dosisnya adalah 10 ml per 16 liter air atau sesuaikan saja dengan dosis yang tertera pada label kemasan. ",
+    "Cara aplikasinya adalah dengan menyemprotkannya pada seluruh bagian tanaman baik itu tanaman yang sudah terinfeksi ataupun tanaman sehat."
+  ],
+  "source": "http://cybex.pertanian.go.id/mobile/artikel/99861/Bercak-Daun-Pada-Tanaman-Cabe/",
+  "penulis": "Lina Andriani, S.Pt. PPL Kecamatan Banyumanik."
+},{
+  "_id": {
+    "$oid": "6481d362832ca67ab3b18a3d"
+  },
+  "tanaman": "chili",
+  "penyakit": "whitefly",
+  "deskripsi": "Whitefly merupakan hama yang sering menyerang tanaman cabai terdiri dari hama Thrips (Thrips parvispinus Karny) dan Kutu Daun (Aphididae). Hama Thrips menyerang tanaman dengan menghisap cairan permukaan bawah daun (terutama daun-daun muda). Serangan ditandai dengan adanya bercak keperak - perakkan. Daun yang terserang berubah warna menjadi coklat tembaga, mengeriting atau keriput dan akhirnya mati. Pada serangan berat menyebabkan daun, tunas atau pucuk menggulung ke dalam dan muncul benjolan seperti tumor, pertumbuhan tanaman terhambat dan kerdil bahkan pucuk tanaman menjadi mati. Hama ini merupakan vektor penyakit virus mosaik dan virus keriting. Pada musim kemarau perkembangan hama sangat cepat, sehingga populasi lebih tinggi sedangkan pada musim penghujan populasinya akan berkurang karena banyak thrips yang mati akibat tercuci oleh air hujan. Hama ini bersifat polifag dengan tanaman inang utama cabai, bawang merah, bawang daun, jenis bawang lainnya dan tomat, sedangkan tanaman inang lainnya tembakau, kopi, ubi jalar, waluh, bayam, kentang, kapas, tanaman dari famili Crusiferae, Crotalaria dan kacang-kacangan.",
+  "penyebab": "hama yang sering menyerang tanaman cabai terdiri dari hama Thrips (Thrips parvispinus Karny) dan Kutu Daun (Aphididae). Hama Thrips menyerang tanaman dengan menghisap cairan permukaan bawah daun (terutama daun-daun muda). Serangan ditandai dengan adanya bercak keperak - perakkan.",
+  "solusi": [
+    "Menggunakan tanaman perangkap seperti kenikir kuning,",
+    "Menggunakan mulsa perak",
+    "Sanitasi lingkungan dan pemotongan bagian tanaman yang terserang thrips",
+    "Penggunaan perangkap warna kuning sebanyak 40 buah per ha atau 2 buah per 500 m2 yang dipasang sejak tanaman berumur 2 minggu",
+    "Perangkap dapat dibuat dari potongan bambu yang dipasang plastik map warna kuning. Plastik diolesi dengan lem agar thrips terperangkap,",
+    "Pemanfaatan musuh alami yang potensial untuk mengendalikan hama thrips, antara lain predator kumbang Coccinellidae, tungau, predator larva Chrysopidae, kepik Anthocoridae dan patogen Entomophthora sp.",
+    "Pestisida digunakan apabila populasi hama atau kerusakan tanaman telah mencapai ambang pengendalian (serangan mencapai lebih atau sama dengan 15% per tanaman) atau cara-cara pengendalian lainnya tidak dapat menekan populasi hama."
+  ],
+  "source": "http://cybex.pertanian.go.id/mobile/artikel/70075/PENGENDALIAN-HAMA-THRIPS-DAN-KUTU-DAUN-PADA-TANAMAN-CABAI-/",
+  "penulis": "Yuli Ratna Pujawati, S.Pt"
+},{
+  "_id": {
+    "$oid": "6483ff56164cae96370b7a6e"
+  },
+  "tanaman": "chili",
+  "penyakit": "yellowish",
+  "deskripsi": "Penyakit virus kuning pada cabai menunjukkan gejala: daun menguning cerah/pucat, daun keriting (curl), daun kecil-kecil, tanaman kerdil, bunga rontok, tanaman tinggal ranting dan batang saja, kemudian mati. Infeksi virus pada awal pertumbuhan tanaman menyebabkan tanaman menjadi kerdil dan tidak menghasilkan bunga dan buah. Gejala kuning dapat dilihat dari kejauhan. Sedangkan gejala pada tanaman tomat adalah berupa tepi daun menguning atau pucat dan melekuk ke atas seperti mangkok (cupping),daun mengeras, daun mengecil dan tumbuh tegak, tanaman menjadi kerdil apabila terinfeksi virus sejak awal pertumbuhan. Penyakit kuning cabai disebabkan oleh virus dari kelompok/Genus Begomovirus (singkatan dari: Bean golden mosaic virus), Famili Geminiviridae. Geminivirus dicirikan dengan bentuk partikel kembar berpasangan (geminate) dengan ukuran sekitar 30 x 20 nm. Di Cuba, penyakit kuning pada cabai disebakan oleh Tomato yellow leaf curl virus (TYLCV). Virus ditularkan oleh kutu putih atau kutu kebul (Bemisia tabaci) secara persisten yang berarti selama hidupnya virus terkandung di dalam tubuh kutu tersebut. Virus tidak ditularkan lewat biji dan juga tidak ditularkan lewat kontak langsung antar tanaman.",
+  "penyebab": "Penyakit kuning cabai disebabkan oleh virus dari kelompok/Genus Begomovirus (singkatan dari: Bean golden mosaic virus), Famili Geminiviridae. Geminivirus dicirikan dengan bentuk partikel kembar berpasangan (geminate) dengan ukuran sekitar 30 x 20 nm. Di Cuba, penyakit kuning pada cabai disebakan oleh Tomato yellow leaf curl virus (TYLCV). Virus ditularkan oleh kutu putih atau kutu kebul (Bemisia tabaci)",
+  "solusi": [
+    "Pengendalian penyakit yang dianjurkan adalah dengan menerapkan Manajemen Kesehatan Tanaman, artinya tanaman harus dikelola agar selalu tetap sehat, karena tanaman yang sehat akan lebih tahan terhadap infeksi virus.",
+    "Pengendalian penyakit meliputi: Pengolahan tanah dan pemupukan berimbang, Penggunaan bibit sehat, pengerudungan persemaian menggunakan kain kasa/kelambu, tempat persemaian yang terisolasi jauh dari lahan yang terserang penyakit, semai dilindungi dengan pestisida nabati seperti nimba, ekstrak tembakau dsb.",
+    "Perlindungan dengan pestisida kimiawi dapat dilakukan secara bijaksana, Sanitasi lingkungan di sekitar pertanaman cabai termasuk menghilangkan gulma dan eradikasi tanaman sakit sejak awal pertumbuhan, Mengatur waktu tanam agar tidak bersamaan dengan tingginya populasi serangga penular, jarak tanam yang tidak terlalu rapat, dan pergiliran tanaman dengan tanaman yang bukan inang dari virus maupun serangga,",
+    "Pengendalian dengan insektisida kimiawi secara bijaksana, misalnya yang berbahan aktif imidacloprid, penyemprotan kutu putih sebaiknya dilakukan pada pagi hari antara jam 06:00-10.00,"
+  ],
+  "source": "http://cybex.pertanian.go.id/mobile/artikel/88538/MENGENAL-PENYAKIT-KUNING-PADA-TANAMAN-CABE/",
+  "penulis": "Bpp soahuku amahai"
+},{
+  "_id": {
+    "$oid": "64840183164cae96370b7a6f"
+  },
+  "tanaman": "rice",
+  "penyakit": "bacterial_leaf_blight",
+  "deskripsi": "Hawar daun bakteri (BB) adalah penyakit yang disebabkan oleh bakteri Gram negatif Xanthomonas oryzae pv. oryzae (Xoo), yang biasanya menyerang tanaman padi melalui luka atau pori-pori air hidatoda, berpindah dan mengkolonisasi pembuluh xilem daun, dan menyebabkan lesi berwarna abu-abu kecokelatan hingga putih di sepanjang pembuluh. BB dapat menyebabkan kehilangan hasil panen sebesar 20-50% dan hingga 100% selama epidemi. Hawar bakteri telah menjadi salah satu penyakit padi yang paling parah dan lazim di seluruh dunia. Strategi untuk mengelola penyakit ini termasuk menanam varietas padi yang tahan terhadap penyakit, penggunaan pestisida kimia, dan penggunaan bakteri antagonis, yang banyak di antaranya diperoleh dari rizosfer, filoplankton, atau jaringan endofit padi atau sumber tanaman lainnya .",
+  "penyebab": "Penyakit ini disebabkan oleh Bakteri Gram-negative bacterium Xanthomonas oryzae",
+  "solusi": [
+    "Rendam benih dengan larutan plantomisin 10 gram atau streptosiklin 1,5 gram dan tembaga oksiklorida 25 gram dalam 10 liter air. ",
+    "Semprot tanaman yang terkena dampak dengan bahan kimia yang sama dengan dosis 500 liter / ha dengan interval 7-10 hari sebanyak 2-3 kali sesuai kebutuhan."
+  ],
+  "source": "https://www.thehindu.com/sci-tech/management-of-bacterial-blight-of-rice/article5706444.ece",
+  "penulis": "Articles | Frontiers"
+},{
+  "_id": {
+    "$oid": "648402eb164cae96370b7a70"
+  },
+  "tanaman": "rice",
+  "penyakit": "brown_spot",
+  "deskripsi": "Bintik coklat pada padi adalah penyakit jamur tanaman yang biasanya terjadi pada daun dan bulir padi inang, serta bibit, pelepah, batang, dan biji-bijian tanaman inang dewasa. Tanaman inang termasuk Oryza (padi Asia), Leersia (Cutgrass), Zizania (padi liar), dan spesies lain seperti Echinochloa colona (junglerice) dan Zea mays (jagung). Cochliobolus miyabeanus dapat menyebabkan berbagai macam gejala. Gejala umum yang terjadi pada inang dapat diamati pada banyak bagian tanaman, termasuk daun, biji, batang, dan perbungaan, serta adanya bercak coklat. Perubahan warna pada batang adalah gejala lain yang berkembang dari penyakit bercak coklat pada padi. Bercak coklat berbentuk oval merupakan tanda pertumbuhan jamur, yang memiliki bagian tengah berwarna abu-abu yang berkembang pada daun inang. Jamur ini menghasilkan toksin yang dikenal sebagai ophiobolin yang menghambat pertumbuhan akar, coleoptiles, dan daun. Patogen ini juga diketahui menghasilkan racun spesifik non inang yang menekan pertahanan tanaman, menyebabkan bercak coklat pada daun padi. Bintik-bintik berwarna kopi gelap muncul di malai dan serangan yang parah menyebabkan bintik-bintik pada gabah dan hilangnya hasil panen dan kualitas penggilingan. Selain itu, lesi pada gabah dan biji terjadi jika patogen berasosiasi dengan jamur dan serangga lain. Lesi semacam itu dapat berkembang jika ada kondisi yang menguntungkan untuk sporulasi.",
+  "penyebab": "Penyakit ini dapat berkembang di daerah dengan kelembaban relatif tinggi (86-100%) dan suhu antara 16 dan 36°C. Penyakit ini biasa terjadi pada tanah yang tidak tergenang dan kekurangan unsur hara, atau pada tanah yang menumpuk zat-zat beracun.",
+  "solusi": [
+    "Meningkatkan kesuburan tanah adalah langkah pertama dalam mengelola bercak coklat. ",
+    "Memantau unsur hara tanah secara teratur",
+    "Berikan pupuk yang dibutuhkan",
+    "untuk tanah yang rendah silikon, berikan terak kalsium silikat sebelum penanaman"
+  ],
+  "source": "http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases/item/brown-spot",
+  "penulis": ""
+},{
+  "_id": {
+    "$oid": "64840533164cae96370b7a71"
+  },
+  "tanaman": "rice",
+  "penyakit": "leaf_blast",
+  "deskripsi": "Magnaporthe grisea, juga dikenal sebagai jamur blas padi, leher busuk padi, hawar bibit padi, blas padi, bercak daun lonjong graminea, penyakit lubang, blas ryegrass, bercak Johnson, blas leher, blas gandum, dan Imochi adalah jamur patogen tanaman dan organisme model yang menyebabkan penyakit serius pada tanaman padi.",
+  "penyebab": "Penyakit ini terjadi di daerah dengan kelembaban tanah yang rendah, hujan yang sering dan berkepanjangan, dan suhu yang sejuk di siang hari. Pada padi gogo, perbedaan suhu siang-malam yang besar yang menyebabkan pembentukan embun pada daun dan suhu yang lebih dingin secara keseluruhan mendukung perkembangan penyakit ini. Padi dapat terkena penyakit blas pada semua tahap pertumbuhan. Namun, kejadian blas daun cenderung berkurang seiring dengan semakin dewasanya tanaman dan semakin kuatnya ketahanan tanaman terhadap penyakit ini.",
+  "solusi": [
+    "Gunakan nutrisi tanaman dalam jumlah yang seimbang, terutama nitrogen.",
+    "Pastikan drainase yang baik pada lahan (pada tanaman yang biasanya dibanjiri air) dan pembibitan.",
+    "Jaga kebersihan lahan. Buanglah gulma dan bajaklah tunggul padi, jerami, batang padi, dan bibit sukarela yang dapat menjadi inang bakteri.",
+    "Biarkan lahan bera mengering untuk menekan agen penyakit di dalam tanah dan sisa-sisa tanaman."
+  ],
+  "source": "http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases/item/blast-leaf-collar",
+  "penulis": ""
+},{
+  "_id": {
+    "$oid": "648406e9164cae96370b7a73"
+  },
+  "tanaman": "rice",
+  "penyakit": "leaf_scald",
+  "deskripsi": "Scald pada daun pada fase awal dicirikan oleh gejala seperti terseduh air panas, kemudian berlanjut menjadi lesio berwarna keputihan kadang-kadang sebagian tembus cahaya. Biasanya tidak terjadi klorosis. Pembesaran luka yang berklelanjutan menyebabkan kerusakan pada sebagai besar helai daun.",
+  "penyebab": "Penyakit ini bisa disebabkan oleh cendawan Gerlachia oryzae. Selain itu juga bisa disebabkan oleh cuaca basah, tingkat pemupukan nitrogen yang tinggi seperti 40 kg/ha. ",
+  "solusi": [
+    "Penggunaan metil tiofanat dalam perlakuan perendaman daun bisa mengurangi infeksinya.",
+    "Di lahan, semprotkan daun dengan fungisida yang mengandung makozeb, metil tiofanat @ 1 g/l atau tembaga oksiklorida secara signiofikan mengurangi jumlah kejadian dan tingkat keparahan lepuh daun.",
+    "Kombinasi bahan kimia itu sangat efektif.",
+    "Selain itu, penyakit ini bisa dicegan dengan pembesaran jarak antar tanaman, pertahankan kadar silikon yang tinggi dalam tanah, hindari kadar nitrogen yang berlebihan pada pupuk, singkirkan gulma di lahan."
+  ],
+  "source": "plantix.com",
+  "penulis": ""
+},{
+  "_id": {
+    "$oid": "648407eb164cae96370b7a74"
+  },
+  "tanaman": "rice",
+  "penyakit": "narrow_brown_spot",
+  "deskripsi": "Penyakit ini memiliki bagian tengah berwarna coklat tua dengan batas yang memudar pada tepian. Bercak-bervak muncul pada tahap selanjutnya, tepat sebelum tahap berbunga. Panyakit ini dapat menyebabkan matang biji sebelum waktunya dan perubahan warna menjadi keunguan pada biji. Rebah tanaman juga dapat terjadi.selama tahap akhir pertumbuhan padi, dimulai pada fase keluar malai",
+  "penyebab": "Penyakit ini biasa disebabkan oleh jamur Spherulina oryzinna. Selain itu bisa juga terjadi karena kekurangan kalium di tanahny dan juga daerah sekitar suhu 25-28 C. ",
+  "solusi": [
+    "Bisa menggunakan propikonazol untuk mengatasinya.",
+    "Untuk pencegahannya bisa mulai singkirkan gulma dan tanaman liar, pastikan pengunaan kalium yang cukup."
+  ],
+  "source": "plantix.com",
+  "penulis": ""
+},{
+  "_id": {
+    "$oid": "648408ff164cae96370b7a75"
+  },
+  "tanaman": "tomato",
+  "penyakit": "bacterial_spot",
+  "deskripsi": "Tanaman yang terinfeksi penyakit tomat ini batangnya menyerupai kerak yang panjang dengan warna keabu-abuan Sedangkan daun yang terserang penyakit tomat ini akan mengalami klorosis dan rontok atau gugur. Lain halnya jika yang terserang adalah buah, jika pada buah yang terserang bakteri maka akan muncul bercak berair yang kemudian akan berubah menjadi bercak bergabus.Gejala yang ditimbulkan bakteri penyebab penyakit tomat ini adalah adanya bercak-bercak kecil yang berair pada batang dan daun tanaman tomat. Bercak tersebut akan mengering dan membentuk cekungan yang berwarna coklat ke abu-abuan dengan diameter 1-5 mm. Tanaman tomat yang mendapat serangan dari bakteri ini daunnya akan mengering dan keriting kebawah.",
+  "penyebab": "Penyakit ini disebabkan oleh bakteri genus Xanthomonas. Bakteri ini bisa menyerang pada biji, daun, buahnya. Bakteri ini memiliki masa bertahan hidup yang terbatas dari hari ke minggu di tanah. Ketika kondisinya nyaman, bakteri menyebar melalui percikan air hujan atau irigasi ke tanaman sehat. Kisaran suhu optimal penyebaran adalah 25-30 C. ",
+  "solusi": [
+    "Merotasi tanaman dengan tanaman yang familinya berbeda, menanam benih dari biji tomat yang sehat, menanam bibit tomat yang memiliki ketahanan terhadap hama dan penyakit, tanaman yang sakit sebaiknya dicabut dan dibakar di areal yang jauh dari lahan penanaman, tanaman yang mati sebaiknya jangan dipendam di lahan penanaman, menyiram tanaman dengan menggunakan air yang bersih dan terbebas dari penyakit, jika tanaman tomat sudah terserang penyakit maka akan sangat sulit untuk mengendalikannya. ",
+    "Selain itu, merendam benih selama 1 menit pada 1,3% natrium hipoklorit atau air panas (50 C) selama 25 menit bisa mengurangi timnulnya penyakit Pengunaan pupuk yang mengandung bakterisida pada tembaga bisa menjadi perlindungan dan memberikan kontrol pada penyakitnya.",
+    "Untuk itu harus segera dilakukan pencegahan sebelum penyakit tomat datang menyerang tanaman. ",
+    "Pencegahan paling sederhana yang bisa dilakukan adalah dengan selalu menjaga kebersihan lingkungan sekitar kebun tomat.",
+    "Semprotkan pula cairan insektisida dan fungisida untuk pencegahan terjadinya penyakit tomat."
+  ],
+  "source": "plantix.com",
+  "penulis": ""
+},{
+  "_id": {
+    "$oid": "64840a57164cae96370b7a76"
+  },
+  "tanaman": "tomato",
+  "penyakit": "late_blight",
+  "deskripsi": "Tanaman yang terinfeksi penyakit busuk daun (late blight) memiliki gejala: adanya lesi (bagian berwarna coklat, cekung, dan lunak) pada daun, batang dan buah. Tidak seperti penyakit busuk daun awal (early blight) yang menginfeksi dari daun bagian bawah, infeksi penyakit busuk daun (late blight) bergerak dari luar lingkungan ke dalam. ",
+  "penyebab": "Penyakit busuk daun (late blight) disebabkan oleh jamur Phytophthora infestans yang bersumber dari Oomycetes (jamur air). Penyakit ini menyebar dari tanaman yang terinfeksi. Spora jamur dapat berpindah melalui udara dan mampu menempuh jarak yang sangat jauh meskipun dalam badai. Hujan dapat mengendapkan spora jamur sehingga membantu proses infeksi penyakit. Cuaca dingin dan basah menjadi faktor utama dalam penyebaran penyakit busuk daun. Infeksi sepenuhnya untuk sebuah ladang tomat dapat terjadi dalam beberapa hari.",
+  "solusi": [
+    "Tahap pencegahan penyakit: menggunakan sistem irigasi tetes, jarak antar tanaman relatif lebar untuk memfasilitasi pergerakan udara, tanaman tidak boleh ditanngani ketika dedaunan basah, pemulsaan (mulching) dengan bahan organik untuk mengurangi perkembangan penyakit, mengintai atau mengurung tanaman dapat mempercepat proses pengeringan dedaunan, hindari menanam tanaman tomat di lokasi yang sama atau di dekat tanaman kentang, lakukan penyemprotan fungisida sesuai dengan aturan atau berkonsultasi dengan ahlinya.",
+    "Tahap penyembuhan penyakit: lanjutkan penyemprotan secara berkala untuk melindungi tanaman dari infeksi lanjutan, bakar atau kubur tanaman yang telah terinfeksi parah, hindari pengomposan tanaman yang sakit, merotasi tanaman dengan tanaman yang tidak terkait dengan tomat dan kentang, hindari memanen buah apabila terlihat lesi penyakit."
+  ],
+  "source": "https://extension.wvu.edu/lawn-gardening-pests/plant-disease/fruit-vegetable-diseases/late-blight-tomatoes",
+  "penulis": "Lewis W. Jett, Horticulture Specialist"
+},{
+  "_id": {
+    "$oid": "64840b80164cae96370b7a77"
+  },
+  "tanaman": "tomato",
+  "penyakit": "leaf_mold",
+  "deskripsi": "Tanaman yang terinfeksi penyakit bercak daun (leaf mold) memiliki gejala: munculnya bercak berwarna hijau pucat atau kekuningan dengan margin tak terbatas di permukaan atas daun, munculnya bercak berwarna hijau zaitun hingga ungu keabu-abuan dan beludru dibawah bintik daun. Semakin lama daun terinfeksi akan berubah warna dari kekuningan menjadi coklat dan daun mulai mengeriting serta kering. Bunga menjadi hitam dan akan mati sebelum buah matang. Buah hijau dan matang akan mengembangkan area hitam halus yang tidak teratur pada ujung batang. Area yang terinfeksi menjadi cekung, kering, dan kasar.",
+  "penyebab": "Penyakit bercak daun (leaf mold) disebabkan oleh jamur Passalora fulva. Spora jamur ini mampu bertahan hidup tanpa inang selama 6-12 bulan pada suhu ruangan. Jamur akan menghasilkan konidia yang akan menginfeksi permukaan bawah daun dan masuk melalui stomata. Kemudian stomata akan tersumbat yang menyebabkan tanaman tomat tidak bisa bernafas dan mengakibatkan layu, kerontokan daun, dan infeksi. Kelembaban daun diatas 85% berkepanjangan akan mendukung pengecambahan spora jamur ini.",
+  "solusi": [
+    "Tahap pencegahan penyakit: gunakan benih berkualitas premium, rendam benih dengan air hangat (122 F atau 50 C) selama 25 menit untuk mencegah patogen dalam benih, atur jarak penanaman tanaman untuk meningkatkan sirkulasi udara dan gunakan kanopi untuk mengurangi kelembaban, hindari pemupukan nitrogen yang berlebihan, atur kelembaban dibawah 85%, gunakan sistem irigasi tetes",
+    "Tahap penyembuhan penyakit: gunakan sari apel, bawang putih atau semprotan susu, dan campuran cuka untuk mengobati jamur, kubur atau bakar tanaman yang terinfeksi parah."
+  ],
+  "source": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/tomato-leaf-mold/",
+  "penulis": "Martha Sudermann, Marissa Schuh, horticulture IPM Extension educator, Anna Johnson, Michelle Grabowski, Angela Orshinsky"
+},{
+  "_id": {
+    "$oid": "64840d2e164cae96370b7a79"
+  },
+  "tanaman": "tomato",
+  "penyakit": "mosaic_virus",
+  "deskripsi": "Tanaman yang terinfeksi memiliki gejala: bentuk buah yang tidak normal, adanya lesi buah, ukuran buah yang berkurang, titik tumbuh yang terdistorsi, warna yang tidak normal (sering menguning), bentuk dan pola pada daun, batang yang terdistorsi, dan tanaman yang kerdil dan kerdil secara keseluruhan.",
+  "penyebab": "Penyakit virus mosaik bermuasal dari virus yang disebarkan melalui benih, pencangkokan buatan, penanganan manusia, produk tembakau, dan beberapa serangga seperti kutu daun, wereng, lalat putih, dan kumbang mentimun. Penyakit ini menyebar ke tanaman melalui luka kecil yang disebabkan oleh cedera mekanis, gigitan serangga, dan pencangkokan. Sisa-sisa puing tanaman adalah penularan yang paling umum.",
+  "solusi": [
+    "Lakukan sanitasi untuk mengendalikan virus mosaik, segera hilangkan tanaman yang terinfeksi, pertahankan area di sekitar tomat yang disiangi dan bebas dari detritus tanaman untuk meminimalkan area yang dapat menjadi sarang penyakit. ",
+    "Lakukan pengontrolan serangga untuk mengurangi kemungkinan kontaminasi. Jangan menanam tomat, timun, atau tanaman lain yang rentan terhadap virus mosaik di area yang sama."
+  ],
+  "source": "https://extension.usu.edu/pests/ipm/notes_ag/veg-TMV-ToMV",
+  "penulis": ""
+},{
+  "_id": {
+    "$oid": "64840e23164cae96370b7a7a"
+  },
+  "tanaman": "tomato",
+  "penyakit": "powdery_mildew",
+  "deskripsi": "Tanaman yang terifeksi memiliki gejala: terdapat bercak putih seperti tepung pada permukaan atas dan bawah daun, daun akan menguning, mati, dan gugur.",
+  "penyebab": "Penyakit embun tepung (powdery mildew) disebabkan oleh spesies jamur Erysiphaceae seperti Golovinomyces orontii, Leveillula taurica, Oidium lycopersici, and Oidium neolycopersici. Melalui media udara, spora jamur akan mendarat di daun, berkecambah, dan menginfeksi tanaman dalam kondisi lingkungan yang menguntungkan. Suhu yang cukup hangat (15-32 C atau 50-95 F) dan kelembaban relatif yang tinggi menjadi faktor penting meningkatkan keparahan embun tepung.",
+  "solusi": [
+    "Pencegahan penyakit dapat dilakukan dengan menggunakan belerang dan kalium silikat. ",
+    "Jika tanda pertama jamur ditemukan, aplikasikan minyak hortikultura dan minyak nimba untuk mengurangi embun tepung.",
+    "Jangan gunakan minya selama  kekeringan, suhu diatas 90 F, atau dalam waktu dua minggu ketika menggunakan belerang. ",
+    "Tiga semprotan dari Trichoderma harzianum, Trichoderma viride, dan Pseudomonas fluorescence dalam 10g/l selama kurun waktu 10 hari efektif melawan embun tepung. "
+  ],
+  "source": "https://www.plantpathologyjournal.com/article/16/1-1-13-151.pdf",
+  "penulis": "Adina Getinet Fogera National Rice Research & Training Center (FNRRTC), Ethiopian Institute of Agricultural Research (EIAR)"
+},{
+  "_id": {
+    "$oid": "64841092164cae96370b7a7b"
+  },
+  "tanaman": "tomato",
+  "penyakit": "septoria_leaf_spot",
+  "deskripsi": "Septoria leaf spot atau disebut bercak daun septoria adalah salah satu penyakit yang merusak dedaunan tomat dan sangat parah di daerah-daerah di mana cuaca basah dan lembab berlangsung dalam waktu yang lama. Biasanya ditandai dengan timbul bercak kecil bulat dan berair dikedua permukaan daun bagian bawah. Bercak yang timbul berwarna coklat muda yang berubah menjadi kelabu dan tepi berwarna kehitaman. Garis tengah pada bercak mencapai ± 2 mm dan serangan terhebat penyakit tomat ini dapat menyebabkan daun menggulung, kering dan rontok.",
+  "penyebab": "Septoria leaf spot disebabkan oleh jamur Septoria lycopersici. Jamur ini dapat menyerang tomat pada setiap tahap perkembangannya, tetapi gejala biasanya pertama kali muncul pada daun dan batang yang lebih tua dan lebih rendah saat tanaman mulai berbuah.",
+  "solusi": [
+    "Gulma beserta tanaman tomat yang mati dibersihkan dari area lahan kemudian dibakar (jangan dipendam dalam tanah)",
+    "Lakukan rotasi tanaman",
+    "Tanamlah tanaman yang berbeda familinya supaya penyakit tidak menyebar",
+    "Tanamlah bibit tomat yang tahan hama penyakit (resisten)",
+    "Semprot tanaman dengan menggunakan fungisida."
+  ],
+  "source": "http://cybex.pertanian.go.id/mobile/artikel/72724/Penyakit-Tomat-dan-Cara-Pengendaliannya/",
+  "penulis": "Dr. Sharon M. Douglas, Missouri Botanical Garden, Ramlan, SP"
+},{
+  "_id": {
+    "$oid": "64841926164cae96370b7a7c"
+  },
+  "tanaman": "tomato",
+  "penyakit": "spider_mites",
+  "deskripsi": "Penyakit ini timbil akibat dari spider mites (tungau laba-laba) yang tumbuh subur dalam kondisi panas dan kering. Hama ini hampir tidak mungkin untuk dilihat, jadi harus diperhatikan tanda-tanda pertama yang mereka tinggalkan. Mereka suka berada di luar cahaya langsung dan bersembunyi di bagian bawah daun. Pada tahap awal, dapat terlihat bintik-bintik kecil berwarna putih dan kuning pada daun atau lubang-lubang kecil. Seiring dengan pertumbuhan populasi mereka, jaring-jaring halus di sekitar batang dan daun tomat dapat terlihat. Kemudian setelah ada serangan berat, daun terlihat pucat berdebu yang benar-benar tertutup jaring laba-laba.",
+  "penyebab": "Tomato spider mites disebabkan oleh spider mites (tungau laba-laba) yang menyerang banyak spesies tanaman, termasuk sayuran dan tanaman hias. Beberapa spesies tungau laba-laba menyerang tomat, terutama Tetranychus urticae dan T. evansii. Tungau laba-laba biasanya ditemukan makan dan berkembang biak di bagian bawah daun. Tungau ini adalah pemakan getah, memakan isi sel tanaman.",
+  "solusi": [
+    "Pada saat tungau laba-laba terlihat, dapat ditangani dengan mencoba menyemprotnya dari batang dan daun tanaman.",
+    "Jika serangannya parah, haruslah menggunakan pengobatan yang lebih kuat seperti semprotan insektisida serta sesuatu seperti tanah diatom yang merupakan solusi alami lainnya."
+  ],
+  "source": "https://www.uaex.uada.edu/yard-garden/plant-health-clinic/disease-notes/posts/tomato-spider-mite-damage.aspx",
+  "penulis": "Sherrie Smith dan Jason Pavel"
+},{
+  "_id": {
+    "$oid": "64841a6a164cae96370b7a7d"
+  },
+  "tanaman": "tomato",
+  "penyakit": "target_spot",
+  "deskripsi": "Target spot terjadi pada tomat yang ditanam di ladang di daerah tropis dan subtropis di dunia. Penyakit ini sering kali salah didiagnosis pada tahap awal karena gejalanya sulit dikenali dan dapat disalahartikan sebagai bacterial spot dan early blight.",
+  "penyebab": "Target spot pada tomat disebabkan oleh patogen jamur Corynespora cassiicola.",
+  "solusi": [
+    "Penggunaan fungisida secara teratur. Penggunaan tersebut harus dimulai sebelum gejala muncul, terutama ketika kondisi mendukung untuk infeksi dan perkembangan penyakit.",
+    "Para petani sebaiknya merotasi ladang untuk menghindari terbawanya residu tanaman dan menghindari rotasi di antara tanaman solanaceous.",
+    "Singkirkan semua spesies gulma yang dapat bertindak sebagai inang."
+  ],
+  "source": "https://www.vegetables.bayer.com/ca/en-ca/resources/agronomic-spotlights/target-spot-of-tomato.html",
+  "penulis": "Bayer, Gene McAvoy"
+},{
+  "_id": {
+    "$oid": "64841b5b164cae96370b7a7e"
+  },
+  "tanaman": "tomato",
+  "penyakit": "yellow_leaf_curl_virus",
+  "deskripsi": "Tomato yellow leaf curl virus (TYLCV) atau disebut virus kuning keriting pada bagian tanaman tomat merupakan virus yang berasal dari suku Geminiviridae. Tanaman yang sudah terinfeksi akan nampak gejala daun muda menjadi kerut atau keriting yang memiliki warna kuning. Sementara ada bagian daun tua tidak akan mengalami penyusutan.",
+  "penyebab": "TYLCV ditularkan oleh kutu kebul Bemisia tabaci yang memakan berbagai macam inang.",
+  "solusi": [
+    "Segera mencabut langsung tanaman yang sudah terserang dan membakarnya.",
+    "Mengendalikan hama kutu kebul sebagai vektornya. Hama kutu kebul bisa segera dibasmi dengan menyemprotkan akarisida dengan bahan aktif abamectin.",
+    "Usahakan untuk melakukan pencegahan sebelum tanaman tomat mulai terserang. Hal ini penting dilakukan karena jika serangan sudah cukup parah maka akan sangat sulit sekali untuk mengendalikannya."
+  ],
+  "source": "http://cybex.pertanian.go.id/mobile/artikel/96215/MENGENAL-PENYAKIT-PADA-TANAMAN-TOMAT/",
+  "penulis": "Siti Nurlaila DS.SP"
+},{
+  "_id": {
+    "$oid": "64841c6d164cae96370b7a7f"
+  },
+  "tanaman": "chili",
+  "penyakit": "healthy",
+  "deskripsi": "Tanaman dalam kondisi sehat dan terawat",
+  "penyebab": "",
+  "solusi": [],
+  "source": "",
+  "penulis": ""
+},{
+  "_id": {
+    "$oid": "64841cf1164cae96370b7a80"
+  },
+  "tanaman": "tomato",
+  "penyakit": "healthy",
+  "deskripsi": "Tanaman dalam kondisi sehat dan terawat",
+  "penyebab": "",
+  "solusi": [],
+  "source": "",
+  "penulis": ""
+},{
+  "_id": {
+    "$oid": "64841d07164cae96370b7a81"
+  },
+  "tanaman": "rice",
+  "penyakit": "healthy",
+  "deskripsi": "Tanaman dalam kondisi sehat dan terawat",
+  "penyebab": "",
+  "solusi": [],
+  "source": "",
+  "penulis": ""
+}]

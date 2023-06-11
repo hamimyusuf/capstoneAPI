@@ -130,6 +130,36 @@ INSERT INTO `USER` (`USERNAME`, `NAME`, `PASSWORD`) VALUES
 -- Indexes for dumped tables
 --
 
+--
+-- Indeks untuk tabel `HISTORY`
+--
+ALTER TABLE `HISTORY`
+  ADD PRIMARY KEY (`ID_HISTORY`);
+
+--
+-- Indeks untuk tabel `INFORMATION`
+--
+ALTER TABLE `INFORMATION`
+  ADD PRIMARY KEY (`ID_INFO`);
+
+--
+-- Indeks untuk tabel `INPUT`
+--
+ALTER TABLE `INPUT`
+  ADD PRIMARY KEY (`ID_INPUT`);
+
+--
+-- Indeks untuk tabel `RESULT`
+--
+ALTER TABLE `RESULT`
+  ADD PRIMARY KEY (`ID_RESULT`);
+
+--
+-- Indeks untuk tabel `USER`
+--
+ALTER TABLE `USER`
+  ADD PRIMARY KEY (`USERNAME`);
+
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

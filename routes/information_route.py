@@ -20,11 +20,7 @@ router = APIRouter()
 
 @router.post("/input",response_description="input data information")
 async def input_data_information(RegUser: UserSchema = Body(...)):
-    RegUser = jsonable_encoder(RegUser)
-    NewUser = await addUser(RegUser)
-    if NewUser == "Username Has Already Use":
-        return  ResponseNotModified(NewUser, "Try Another Username")
-    return ResponseModel(NewUser, "User Successfuly Added")
+    return ResponseModel(None, "API Not Found yet")
 
 @router.get("/data",response_description="show all data information")
 async def get_all_data_information():
@@ -40,15 +36,8 @@ async def get_data_information(tanaman):
 
 @router.put("/data/{id}",response_description="update data information")
 async def update_data_information(UpdateUser: UserSchema = Body(...)):
-    UpdateUser = jsonable_encoder(UpdateUser)
-    Updated = await UpdateUserData(UpdateUser)
-    if Updated:
-        return ResponseModel(Updated, "Data Update Successfully")
-    return ResponseModel(Updated, "Data Not Found")
+    return ResponseModel(None, "API Not Found yet")
 
 @router.delete("/data/{id}",response_description="delete data information")
 async def delete_data_information(username):
-    deleteUser = await DeleteUserData(username)
-    if deleteUser:
-        return ResponseModel(deleteUser, "Data User Successfully Deleted")
-    return ResponseModel(None, "Data Not Found")
+    return ResponseModel(None, "API Not Found yet")

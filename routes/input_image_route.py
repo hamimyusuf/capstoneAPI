@@ -23,6 +23,4 @@ async def uploadImage(username: str = Form(...), plant: str = Form(...), image :
     file_path = GCStorage().upload_file(file_utils)
     os.remove(file_utils)
     predict = await diseasePredict(username, plant, file_path)
-    return{
-        predict
-    }
+    return ResponseModel(predict, "Menampilkan Hasil Analisis")

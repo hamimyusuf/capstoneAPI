@@ -27,11 +27,23 @@
 # print(data)
 
 import requests
+from functions.connection import mongoconn
+# data_info = conmongo()
+infodb = mongoconn()
 
-ml_api_url = 'https://asia-southeast2-capstone-project-c23-pc640.cloudfunctions.net/function-1'
-payload = {
-    'plant':'rice',
-    'image':'https://storage.googleapis.com/c23_pc640_bucket/c23/brownspot.jpg'
-    }
-result = requests.post(ml_api_url, json = payload)
-print(result.text)
+# ml_api_url = 'https://asia-southeast2-capstone-project-c23-pc640.cloudfunctions.net/function-1'
+# payload = {
+#     'plant':'chili',
+#     'image':'https://storage.googleapis.com/c23_pc640_bucket/c23/brownspot.jpg'
+#     }
+# result = requests.post(ml_api_url, json = payload)
+# print(result.text)
+cari = infodb.find_one({"penyakit":"leaf_curl","tanaman":"chili"})
+print(cari)
+# from functions.generate_id import makeId
+
+# id_input = makeId()
+# id_result = makeId()
+# id_history = makeId()
+
+# print(id_input,id_history,id_result)

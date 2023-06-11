@@ -1,6 +1,7 @@
 import mysql.connector
 from mysql.connector import Error
 from pymongo import MongoClient
+import pymongo
 import motor.motor_asyncio
 
 def conn():
@@ -30,6 +31,12 @@ def conmongo():
     db = client.capstone_db
     dbinfo = db["information"]
     return dbinfo
+
+def mongoconn():
+    myclient = pymongo.MongoClient("mongodb://root:123@localhost:27017/")
+    mydb = myclient["capstone_db"]
+    mycol = mydb["information"]
+    return mycol
 
 
 

@@ -7,8 +7,8 @@ import motor.motor_asyncio
 def conn():
     try:
         mydb = mysql.connector.connect(
-            host="localhost",
-            port=3308,
+            host="mysqldb",
+            port=3306,
             user="root",
             password="123",
             database="capstone_db",
@@ -27,13 +27,13 @@ def conn():
         
 
 def conmongo():
-    client = motor.motor_asyncio.AsyncIOMotorClient('mongodb://root:123@localhost:27017/')
+    client = motor.motor_asyncio.AsyncIOMotorClient('mongodb://root:123@mongodb:27017/')
     db = client.capstone_db
     dbinfo = db["information"]
     return dbinfo
 
 def mongoconn():
-    myclient = pymongo.MongoClient("mongodb://root:123@localhost:27017/")
+    myclient = pymongo.MongoClient("mongodb://root:123@mongodb:27017/")
     mydb = myclient["capstone_db"]
     mycol = mydb["information"]
     return mycol
